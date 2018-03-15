@@ -4,9 +4,9 @@ Simple project that uses the Executor Threads to make objects of the type "Car" 
 
 ## Still Todo
 
-* Reformat the way i populate the graph. Either streaming from a file or perhaps from a database.
+* Reformat the way I populate the graph. Either streaming from a file or perhaps from a database.
 * Create an overarching class of "Vehicle" for Dependancy Injection. 
-* Rewrite Car classes for a more cleaner code ( and less dependant) code.
+* Rewrite Car classes for a more cleaner code ( and less dependant) code.(Remove DI errors)
 
 ## Authors
 
